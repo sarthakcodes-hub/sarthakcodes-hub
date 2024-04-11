@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm SARTHAK CHAKRABORTY</h1>
 <h3 align="center">LEARNING DEVELOPMENT</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 - 🌱 I’m currently learning **Development**
+  
 - 💞️ I’m looking to collaborate on **Python**
+  
 - 📫 How to reach me **sarthak04.c@gmail.com**
 
 <!---
