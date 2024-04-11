@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
   <a href="https://linkedin.com/in/sarthak-chakraborty22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajitghosh-orrin" height="30" width="40" /></a>
 <a href="https://instagram.com/__.notsarthak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.notsarthak_" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/Sarthak04c" target="blank"><img src="https://img.shields.io/twitter/follow/Sarthak04c?logo=twitter&style=for-the-badge" alt="Sarthak04c" /></a> </p>
 
 </p>
 
