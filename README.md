@@ -14,22 +14,26 @@
   
 - 📫 How to reach me **sarthak04.c@gmail.com**
 
+- 👨‍💻 All of my projects are available at [sarthakcodeshub-Portfolio](https://sarthakcodeshub.000webhostapp.com/)
+
 <!---
 sarthakcodes-hub/sarthakcodes-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sarthak-chakraborty22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajitghosh-orrin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sarthakcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajitghosh-orrin" height="30" width="40" /></a>
 <a href="https://instagram.com/__.notsarthak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.notsarthak_" height="30" width="40" /></a>
+    
 <p align="left"> <a href="https://twitter.com/Sarthak04c" target="blank"><img src="https://img.shields.io/twitter/follow/Sarthak04c?logo=twitter&style=for-the-badge" alt="Sarthak04c" /></a> </p>
-
-</p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
